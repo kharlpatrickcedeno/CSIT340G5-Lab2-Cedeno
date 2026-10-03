@@ -8,31 +8,31 @@ function ProjectsSection() {
       <div className="mt-8 grid gap-6 sm:grid-cols-2">
         <ProjectCard
           year="2026"
-          title="About Me in React"
-          description="My first React project, rebuilt from a plain HTML page."
-          tech="React · Tailwind CSS"
-          link="https://github.com/juandelacruz/CSIT340-Lab1-DelaCruz"
+          title="VeriSafe"
+          description="A campus safety reporting prototype built with two classmates. I built the security console where officers review reports, see similar reports nearby on a map, and confirm or dismiss them."
+          tech="React · TypeScript · Tailwind CSS · Leaflet"
+          link="https://github.com/kharlpatrickcedeno/VeriSafe"
         />
         <ProjectCard
-          year="2025"
-          title="Canteen Queue"
-          description="A page that shows how long the canteen line is so students can decide when to go."
+          year="2026"
+          title="Sigurado"
+          description="A bilingual mobile app prototype that tells Filipino residents what to bring, how much it costs, and where to go to get barangay documents."
           tech="HTML · CSS · JavaScript"
-          link="https://github.com/juandelacruz/canteen-queue"
+          link="https://github.com/kharlpatrickcedeno/Sigurado"
+        />
+        <ProjectCard
+          year="2026"
+          title="Deeply"
+          description="An Android app for deep-work sessions. You log your setting and energy before each one, rate it after, and see which conditions help you focus."
+          tech="Kotlin · Android SDK"
+          link="https://github.com/kharlpatrickcedeno/Deeply"
         />
         <ProjectCard
           year="2025"
-          title="Clinic Records"
-          description="A desktop app for our database class that keeps visit records for a small clinic."
-          tech="Java · MySQL"
-          link="https://github.com/juandelacruz/clinic-records"
-        />
-        <ProjectCard
-          year="2024"
-          title="Org Event Page"
-          description="A one-page site for our org's freshman orientation, with the schedule and venue."
-          tech="HTML · Bootstrap"
-          link="https://github.com/juandelacruz/org-event-page"
+          title="SnapIt Cebu"
+          description="A website for a pop-up photobooth service in Cebu City, with a photo carousel, gallery, pricing packages, and a booking page."
+          tech="HTML · CSS · JavaScript"
+          link="https://github.com/kharlpatrickcedeno/SnapIt"
         />
       </div>
     </section>

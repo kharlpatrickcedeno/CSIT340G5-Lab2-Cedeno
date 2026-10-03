@@ -7,22 +7,22 @@ function ExperienceSection() {
       <SectionHeading title="Experience" subtitle="Where I have learned and worked." />
       <ol className="mt-8 space-y-8 border-l border-stone-200">
         <TimelineItem
-          period="2024 – Present"
-          title="BS Information Technology"
-          place="Cebu Institute of Technology – University"
-          description="Taking up web development, databases, and systems analysis."
+          period="Nov 2025 – Present"
+          title="UI/UX Designer"
+          place="Bitwork Solutions (remote)"
+          description="Sole designer on a B2B mobile app for vinyl wrap shops. I interview shop owners, design every screen from user flows to Figma prototypes, and help with QA and front-end code."
         />
         <TimelineItem
-          period="2025"
-          title="Student Assistant"
-          place="CCS Computer Laboratory"
-          description="Set up lab machines and helped students with software installs."
+          period="Jun – Sep 2025"
+          title="UI Designer & Developer"
+          place="Freelance, UK-based client (remote)"
+          description="Designed the front end of a SaaS platform that turns 2D images into animated 3D logos, and wrote a Blender script that cut manual animation time by 50%."
         />
         <TimelineItem
-          period="2022 – 2024"
-          title="Senior High School, ICT Strand"
-          place="Talisay City National High School"
-          description="Built my first web page and got hooked."
+          period="2023 – Present"
+          title="UX Designer"
+          place="AI Pilipinas Cebu"
+          description="Design event and digital materials for workshops reaching 200+ participants, with standard templates that cut revision cycles by about 40%."
         />
       </ol>
     </section>

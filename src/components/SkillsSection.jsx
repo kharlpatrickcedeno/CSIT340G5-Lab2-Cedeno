@@ -7,29 +7,29 @@ function SkillsSection() {
       <SectionHeading title="Skills" subtitle="What I work with." />
       <div className="mt-8 grid gap-8 sm:grid-cols-3">
         <div>
-          <h3 className="text-sm font-medium text-stone-500">Languages</h3>
+          <h3 className="text-sm font-medium text-stone-500">Design</h3>
           <div className="mt-3 flex flex-wrap gap-2">
-            <SkillTag name="HTML" />
-            <SkillTag name="CSS" />
-            <SkillTag name="JavaScript" />
-            <SkillTag name="Java" />
+            <SkillTag name="User research" />
+            <SkillTag name="Wireframing" />
+            <SkillTag name="Prototyping" />
+            <SkillTag name="Journey mapping" />
           </div>
         </div>
         <div>
-          <h3 className="text-sm font-medium text-stone-500">Frameworks</h3>
+          <h3 className="text-sm font-medium text-stone-500">Development</h3>
           <div className="mt-3 flex flex-wrap gap-2">
             <SkillTag name="React" />
-            <SkillTag name="Tailwind CSS" />
-            <SkillTag name="Bootstrap" />
+            <SkillTag name="Next.js" />
+            <SkillTag name="Python" />
           </div>
         </div>
         <div>
           <h3 className="text-sm font-medium text-stone-500">Tools</h3>
           <div className="mt-3 flex flex-wrap gap-2">
-            <SkillTag name="Git" />
-            <SkillTag name="VS Code" />
-            <SkillTag name="MySQL" />
             <SkillTag name="Figma" />
+            <SkillTag name="Git" />
+            <SkillTag name="Notion" />
+            <SkillTag name="Trello" />
           </div>
         </div>
       </div>
